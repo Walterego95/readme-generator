@@ -5,11 +5,12 @@
             Develop a node.js app in order to create readme files
 
 ##          Proof of Concept
-            javascript allows you to do many wonderful automated things that help you save time.
+            <a href="https://drive.google.com/file/d/1RGccB66eswenKJL954dZs0LaXYW--_Le/view">Walter Scimone Readme Generator</a>       
+            
 
 ##          Built with
             Javascript (Node.js)
         
 ##          Contribution
-            Walter Scimone
+            Walter Scimone with the help of Github and Stackoverflow community.
             
